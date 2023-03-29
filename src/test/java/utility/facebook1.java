@@ -23,6 +23,7 @@ public class facebook1
 	 public static void openApplication(String url)
 	 {
 		 driver.get(url);
+		 System.out.println("hiiii");
 		 
 	 }
 	 
